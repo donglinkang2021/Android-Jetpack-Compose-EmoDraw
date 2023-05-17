@@ -2,9 +2,7 @@
 
 ## EmoDraw
 
-
-<center><img src="README.assets/appIcon.svg" alt="EmoDraw" style="zoom:150%;" /></center>
-
+![appicon](README.assets/appIcon.svg)
 
 ### 简单介绍
 
